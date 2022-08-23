@@ -162,3 +162,6 @@ When the email/sms is sent, it will look like the image below. We will optimize 
 
 ### Email
 TBD: This has been made to work with both cloud and hybrid version of Shuffle. Can't work 100% onprem because webhooks from Office365 and Google Workspaces can't reach your host.
+
+### GMail
+![image](https://user-images.githubusercontent.com/42445982/186145505-7c01de27-1059-4895-8a92-18f876a31b85.png)
